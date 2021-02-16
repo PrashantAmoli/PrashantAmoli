@@ -5,30 +5,30 @@ Hey,  I'm <a href="https://prashantamoli.github.io" width="60">Prashant Amoli <i
 </strong>
 </h3>
 
-<hr/>
+<br/>
 
 <h2 align="center"><strong>Connect <img src="https://user-images.githubusercontent.com/53649201/99296951-8ef68900-286d-11eb-9bf3-fdb6cf13b585.gif" height="32px" align="center"> Contact</strong></h2>
 
 <p align="center" >
 
 <a href="mailto:prashantamoli@outlook.com">
-  <img alt="Prashant's Email" width="36" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
+  <img alt="Prashant's Email" width="44" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
 </a>
 
 <a href="https://www.linkedin.com/in/PrashantAmoli/">
-  <img alt="Prashant's LinkedIn" width="36" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+  <img alt="Prashant's LinkedIn" width="44" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a>
 
 <a href="https://instagram.com/prashant21__">
-  <img" alt="Prashant's Instagram" width="36" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
+  <img" alt="Prashant's Instagram" width="44" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
 </a>
 
 <a href="https://www.github.com/PrashantAmoli/">
-  <img alt="Prashant's GitHub" width="36" src="https://img.icons8.com/color/64/000000/github.png"/>
+  <img alt="Prashant's GitHub" width="44" src="https://img.icons8.com/color/64/000000/github.png"/>
 </a>
 
 <a href="https://twitter.com/prashant21__">
-  <img alt="Prashant's Twitter" width="36" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
+  <img alt="Prashant's Twitter" width="44" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
 </a>
 
 </p>
@@ -37,11 +37,11 @@ Hey,  I'm <a href="https://prashantamoli.github.io" width="60">Prashant Amoli <i
 
 <p align="center">
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" align="left">
-<img alt="Coder GIF" height=200 width=300 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+<img alt="Coder GIF" height=200 width=300 style="border-radius: 250px;" src="https://magiccopy.xyz/assets/images/hadder.gif" />
 <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" align="right">
 </p>
 
-<hr />
+<br />
 
 <p align="center">
 
@@ -49,21 +49,21 @@ Hey,  I'm <a href="https://prashantamoli.github.io" width="60">Prashant Amoli <i
 
 <br/>
 
-<code><img style="margin: auto;" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/git.png" alt=git  height="36"/></code>
-<code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="36" alt="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
-<code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img style="margin: auto;" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/mongo.png" alt=mongodb  height="36"/> </code>
-<code><img style="margin: auto;" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/express.png" alt=express  height="36"/></code>
-<code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img style="margin: auto;" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/heroku.png" alt=heroku  height="36"/></code>
+<code><img style="margin: auto;" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/git.png" alt=git  height="39"/></code>
+<code><img height="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="39" alt="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
+<code><img height="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img style="margin: auto;" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/mongo.png" alt=mongodb width="39" height="39"/> </code>
+<code><img style="margin: auto;" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/express.png" alt=express width="39" height="39"/></code>
+<code><img height="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="39" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img style="margin: auto;" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/heroku.png" alt=heroku  height="39"/></code>
 
 <br/>
 
@@ -81,6 +81,6 @@ Hey,  I'm <a href="https://prashantamoli.github.io" width="60">Prashant Amoli <i
 
 </p>
 
-<hr/>
+<br/>
 
 <p align="center" > <a href="mailto:prashantamoli@outlook.com">Want to collaborate? <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="36" align="center"> </a> </p>
