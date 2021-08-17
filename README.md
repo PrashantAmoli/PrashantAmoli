@@ -11,7 +11,7 @@ I'm <a href="https://prashantamoli.github.io" width="60">Prashant Amoli <img src
 
 <p align="center" >
 
-<a href="mailto:prashantamoli@outlook.com">
+<a href="mailto:prashantamoli2621@gmail.com">
   <img alt="Prashant's Email" width="44" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
 </a>
 
@@ -83,4 +83,4 @@ I'm <a href="https://prashantamoli.github.io" width="60">Prashant Amoli <img src
 
 <br/>
 
-<p align="center" > <a href="mailto:prashantamoli@outlook.com">Want to collaborate? <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="36" align="center"> </a> </p>
+<p align="center" > <a href="mailto:prashantamoli2621@gmail.com">Want to collaborate? <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="36" align="center"> </a> </p>
