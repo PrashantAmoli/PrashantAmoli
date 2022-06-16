@@ -1,4 +1,4 @@
-## **Hey!** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+## **Hey!** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" > 
 
 <h3 align="center"><strong>
 I'm <a href="https://prashantamoli.github.io" width="60">Prashant Amoli <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" height=44></a> a Full Stack Developer 
