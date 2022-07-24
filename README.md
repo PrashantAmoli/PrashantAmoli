@@ -1,7 +1,7 @@
 ## **Hey!** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" > 
 
 <h3 align="center"><strong>
-I'm <a href="https://prashantamoli.github.io" width="60">Prashant Amoli <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" height=44></a> a Full Stack Developer 
+I'm <a href="https://prashantamoli.github.io" width="60">Prashant Amoli</a> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=50 height=44> a Full Stack Developer 
 </strong>
 </h3>
 
@@ -20,7 +20,7 @@ I'm <a href="https://prashantamoli.github.io" width="60">Prashant Amoli <img src
 </a>
 
 <a href="https://instagram.com/prashant21__">
-  <img" alt="Prashant's Instagram" width="44" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
+  <img alt="Prashant's Instagram" width="44" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
 </a>
 
 <a href="https://www.github.com/PrashantAmoli/">
@@ -33,22 +33,20 @@ I'm <a href="https://prashantamoli.github.io" width="60">Prashant Amoli <img src
 
 </p>
 
-<br/>
-
-<p align="center">
-<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" align="left">
-<img alt="Coder GIF" height=200 width=300 style="border-radius: 250px;" src="https://magiccopy.xyz/assets/images/hadder.gif" />
-<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" align="right">
-</p>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<img src="https://user-images.githubusercontent.com/51138087/93663687-87a63100-fa1e-11ea-841c-88dbd3e76d02.gif" width="100" align="right">
 
 <br />
 
 <p align="center">
-
-<h2 align="center"><strong>Skills <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=40 height=33 align="center"> Interests</strong></h2>
-
+<h2 align="center">
+<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50" align="left">
+<strong>Skills <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=40 height=33 align="center"> Interests</strong>
+<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50" align="right">
+</h2>
 <br/>
 
+<p align="center>
 <code><img style="margin: auto;" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/git.png" alt=git  height="38"/></code>
 <code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="38" alt="GitHub" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp"></code>
@@ -64,12 +62,9 @@ I'm <a href="https://prashantamoli.github.io" width="60">Prashant Amoli <img src
 <code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img style="margin: auto;" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/heroku.png" alt=heroku  height="38"/></code>
+</p>
 
 <br/>
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/51138087/93663687-87a63100-fa1e-11ea-841c-88dbd3e76d02.gif" width="100" align="center">
-</p>
 
 </p>
 
@@ -83,4 +78,4 @@ I'm <a href="https://prashantamoli.github.io" width="60">Prashant Amoli <img src
 
 <br/>
 
-<p align="center" > <a href="mailto:prashantamoli2621@gmail.com">Want to collaborate? <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="36" align="center"> </a> </p>
+<p align="center" > <a href="mailto:prashantamoli2621@gmail.com">Want to collaborate? </a> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height=36 width="36" align="center"> </p>
