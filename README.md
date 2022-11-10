@@ -76,7 +76,11 @@ I'm <a href="https://prashantamoli.github.io" width="60">Prashant Amoli</a> <img
 
 </p>
 
-[![Prashant's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=prashantamoli&theme=Dark)](https://leetcode.com/prashantamoli)
+<p align="center">
+<a href="https://leetcode.com/prasantamoli"/>
+<img src="https://leetcode-stats.vercel.app/api?username=prashantamoli&theme=Dark" />
+</a>
+</p>
 
 <br/>
 
