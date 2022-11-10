@@ -76,6 +76,8 @@ I'm <a href="https://prashantamoli.github.io" width="60">Prashant Amoli</a> <img
 
 </p>
 
+[![Prashant's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=prashantamoli&theme=Dark)](https://leetcode.com/prashantamoli)
+
 <br/>
 
 <p align="center" > <a href="mailto:prashantamoli2621@gmail.com">Want to collaborate? </a> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height=36 width="36" align="center"> </p>
