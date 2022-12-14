@@ -78,7 +78,9 @@ I'm <a href="https://prashantamoli.github.io" width="60">Prashant Amoli</a> <img
 
 <p align="center">
 <a href="https://leetcode.com/prasantamoli"/>
-<img src="https://leetcode-stats.vercel.app/api?username=prashantamoli&theme=Dark" />
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/PrashantAmoli?theme=dark&font=Anybody&ext=heatmap)
+
 </a>
 </p>
 
