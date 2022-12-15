@@ -78,11 +78,12 @@ I'm <a href="https://prashantamoli.github.io" width="60">Prashant Amoli</a> <img
 
 <p align="center">
 <a href="https://leetcode.com/prasantamoli"/>
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/PrashantAmoli?theme=dark&font=Anybody&ext=heatmap)
-
+  <img src="https://leetcard.jacoblin.cool/PrashantAmoli?theme=dark&font=Anybody&ext=heatmap" />
 </a>
 </p>
+                                                                                             
+
+<!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/PrashantAmoli?theme=dark&font=Anybody&ext=heatmap) -->
 
 <br/>
 
