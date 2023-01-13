@@ -1,7 +1,7 @@
-## **Hey!** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" > 
+## **Hey!**    ![Visitor Count](https://profile-counter.glitch.me/PrashantAmoli/count.svg)
 
 <h3 align="center"><strong>
-I'm <a href="https://prashantamoli.github.io" width="60">Prashant Amoli</a> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=50 height=44> a Full Stack Developer 
+I'm <a href="https://prashantamoli.github.io" width="60">Prashant Amoli</a> a Full Stack Developer 
 </strong>
 </h3>
 
@@ -41,10 +41,13 @@ I'm <a href="https://prashantamoli.github.io" width="60">Prashant Amoli</a> <img
 <p align="center">
 <h2 align="center">
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50" align="left">
-<strong>Skills <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=40 height=33 align="center"> Interests</strong>
+<strong>Skills & Interests</strong>
 <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50" align="right">
 </h2>
 <br/>
+
+### JavaScript | TypeScript | React | Redux | Node JS | Next JS | Tailwind | Material UI | Express | MongoDB
+### Solidity | Blockchain | Ethereum | Web3 | Truffle | Hardhat | SQL | JSON Server | Firebase | C | C++
 
 <p align="center>
 <code><img style="margin: auto;" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/git.png" alt=git  height="38"/></code>
