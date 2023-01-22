@@ -1,7 +1,11 @@
 ## **Hey!**    ![Visitor Count](https://profile-counter.glitch.me/PrashantAmoli/count.svg)
 
 <h3 align="center"><strong>
-I'm <a href="https://prashantamoli.github.io" width="60">Prashant Amoli</a> a Full Stack Developer 
+I'm <a href="https://prashantamoli.github.io" width="60">Prashant Amoli</a> a Full Stack Developer
+</strong>
+</h3>
+<h3 align="center" justify="center"><strong>
+Coded atleast <img src="https://wakatime.com/badge/user/3b275770-ca50-4a04-b58b-d5157467dc2e.svg" alt="Total time coded since Nov 29 2020" />
 </strong>
 </h3>
 
@@ -72,6 +76,7 @@ I'm <a href="https://prashantamoli.github.io" width="60">Prashant Amoli</a> a Fu
 </p>
 
 <br/>
+                                                                                                                        
 
 <p align="center" >
 <img height="137.3px"  src="https://github-readme-stats.vercel.app/api?username=PrashantAmoli&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" /><!-- wi*quL3fcV -->
